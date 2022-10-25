@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">common</string>
+
+    //pull to refresh
+    <string name="cube_ptr_pull_down">下拉更新</string>
+    <string name="cube_ptr_pull_down_to_refresh">下拉刷新</string>
+    <string name="cube_ptr_release_to_refresh">鬆開更新</string>
+    <string name="cube_ptr_refreshing">正在努力更新</string>
+    <string name="rll_header_last_time">最後更新：</string>
+    <string name="cube_ptr_refresh_complete">更新完成</string>
+    <string name="rll_header_time_justnow">剛剛</string>
+    <string name="rll_header_time_minutes">分鐘以前</string>
+    <string name="rll_header_time_hours">小時以前</string>
+    <string name="rll_header_time_days">天以前</string>
+
+    <!--<string name="cube_ptr_last_update">last update:&#160;</string>-->
+    <!--<string name="cube_ptr_seconds_ago">&#160;seconds ago</string>-->
+    <!--<string name="cube_ptr_minutes_ago">&#160;minutes ago</string>-->
+    <!--<string name="cube_ptr_hours_ago">&#160;hours ago</string>-->
+
+
+</resources>
